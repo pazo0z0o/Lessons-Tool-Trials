@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lpLNrGsgNMyyTIKYwnHyn2NBdrPD/vnSaM7qSdQYnu/YGTG57nRfJMlvTW1Og9FAOGtvkUZuj0W4AH+1tF3+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gamis\\Documents\\GitHub\\RabbitMQ lesson\\RabbitSender\\RabbitReceiver2\\RabbitReceiver2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gamis\\.nuget\\packages\\rabbitmq.client\\6.7.0\\rabbitmq.client.6.7.0.nupkg.sha512",
+    "C:\\Users\\gamis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\gamis\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
